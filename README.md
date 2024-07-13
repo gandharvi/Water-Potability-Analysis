@@ -7,10 +7,15 @@ URL: https://www.kaggle.com/datasets/adityakadiwal/water-potability/data
 
 ## Models Evaluated
 Logistic Regression
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 Support Vector Machine (SVC)
+
 K-Nearest Neighbors (KNN)
+
 
 
 SVC performed the best
